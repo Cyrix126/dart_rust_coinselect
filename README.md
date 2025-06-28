@@ -1,1 +1,1 @@
-Dart library for coin selection
+Dart library for coin selection using [rust-coinselect](https://github.com/citadel-tech/rust-coinselect) under the hood thanks to [flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge).
